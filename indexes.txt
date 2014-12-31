@@ -1,0 +1,1 @@
+[{"url":"http:\/\/localhost\/sts_admin_panel\/","keywords":{"dog":1,"super":1,"join":1,"study":3,"abrod":1,"new":1}},{"url":"http:\/\/localhost\/codeigniter\/","keywords":{"lost":1,"found":1,"stolen":1,"pets":1,"rescue":1,"adoptions":1,"dogs":2,"cats":1,"puppies":1,"rabbits":1,"kittens":1,"puppy":1,"bunny":1,"parrots":1,"birds":1}}]
